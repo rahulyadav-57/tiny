@@ -1,0 +1,13 @@
+{
+    "name": "@r.yadav9969/tiny2",
+    "version": "2.0.0",
+    "description": "Removes all spaces from string",
+    "license": "MIT",
+    "repository": "rkdev57/tiny",
+    "main": "index.js",
+    "keywords": [
+        "tiny",
+        "npm",
+        "package"
+    ]
+}
